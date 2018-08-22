@@ -2,7 +2,7 @@
 
 An example program and functions to use pretrained models in tensorflow. Using the model from - https://github.com/tensorflow/models/blob/master/research/object_detection/g3doc/detection_model_zoo.md
 
-![alt text]("RPS Image")
+![alt text](https://github.com/Ashok93/Pretrained-model-with-TensorFlow/blob/master/static_imgs/mobile_net_google.gif "RPS Image")
 
 ### Dependencies
 1. Tensorflow
