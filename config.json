@@ -1,0 +1,7 @@
+{
+    "camera_device_num":0,
+    "model_dir": "models/ssd_mobilenet_v1_coco_2018_01_28",
+    "model_path": "models/ssd_mobilenet_v1_coco_2018_01_28/model.ckpt",
+    "output_nodes": ["num_detections:0", "detection_classes:0", "detection_scores:0", "detection_boxes:0"],
+    "input_node": "image_tensor:0"
+}
